@@ -62,6 +62,7 @@ This is an inventory management system built using React and Redux. It allows us
 - Add products to the cart and view details.
 - Toggle dark and light mode.
 - Proceed to checkout.
+  ---- (Upcoming - login page also linkage with a backend api using nodejs)
 
 ## Contributing
 
